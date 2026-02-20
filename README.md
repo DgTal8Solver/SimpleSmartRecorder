@@ -1,5 +1,5 @@
 It's very simple, but useful "tool" for recording some event at the time you will set **(\*o\*)**
-You can use it very easy **(~^b^)~**
+You can use it very easy **(\~^b^)\~**
 
 Let's go to the "params.json":
 1. Set path to OBS Studio (for example *"C:\ProgramFiles\obs-studio\bin\64bit\obs64.exe"*). I hope you do it **(^v^)**
